@@ -1,0 +1,8 @@
+{
+  "name": "JP-DEMO",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "3f0ac608"
+}
